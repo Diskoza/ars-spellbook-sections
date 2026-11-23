@@ -1,0 +1,13 @@
+{
+  "ars_glyph_organizer.category.forms": "Формы",
+  "ars_glyph_organizer.category.augments": "Усиления",
+  "ars_glyph_organizer.category.damage": "Атака",
+  "ars_glyph_organizer.category.control": "Контроль",
+  "ars_glyph_organizer.category.support": "Защита и поддержка",
+  "ars_glyph_organizer.category.mobility": "Передвижение",
+  "ars_glyph_organizer.category.utility": "Быт и мир",
+  "ars_glyph_organizer.category.summoning": "Призыв",
+  "ars_glyph_organizer.category.logic_zones": "Триггеры, зоны и логика",
+  "ars_glyph_organizer.category.other": "Другие аддоны",
+  "ars_glyph_organizer.category.continued": "%s (прод.)"
+}

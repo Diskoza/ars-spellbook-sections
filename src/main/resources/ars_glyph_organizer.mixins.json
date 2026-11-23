@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "ru.arsglyphorganizer.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "ars_glyph_organizer.refmap.json",
+  "client": [
+    "GuiSpellBookMixin",
+    "InfinityGuiSpellBookMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

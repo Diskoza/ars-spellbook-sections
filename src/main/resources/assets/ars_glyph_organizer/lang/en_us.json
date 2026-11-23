@@ -1,0 +1,13 @@
+{
+  "ars_glyph_organizer.category.forms": "Forms",
+  "ars_glyph_organizer.category.augments": "Augments",
+  "ars_glyph_organizer.category.damage": "Damage",
+  "ars_glyph_organizer.category.control": "Control",
+  "ars_glyph_organizer.category.support": "Defense & support",
+  "ars_glyph_organizer.category.mobility": "Mobility",
+  "ars_glyph_organizer.category.utility": "Utility & world",
+  "ars_glyph_organizer.category.summoning": "Summoning",
+  "ars_glyph_organizer.category.logic_zones": "Triggers, zones & logic",
+  "ars_glyph_organizer.category.other": "Other add-ons",
+  "ars_glyph_organizer.category.continued": "%s (cont.)"
+}
